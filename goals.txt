@@ -5,3 +5,8 @@
 "Technical skills I want to learn: "
 "1. C++ "
 "2. Java "
+"Goals :"
+"1. Contribute to open source projects"
+"Skills :"
+"1.Web Development"
+"2.Python"

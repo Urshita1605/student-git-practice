@@ -1,0 +1,10 @@
+My Portfolio
+-------------
+Projects: 
+1.Telephone Directory 
+Description: Programming language: Python 
+Built a program which deals with processes of a telephone directory.  
+Allowing the user to maintain the details after he or she has added or looked up or remove a phone number.  
+2. Food Recipes  
+Description: Programming language: HTML 
+We built the website on food recipes given by our parents. 
